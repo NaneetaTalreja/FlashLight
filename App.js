@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, TouchableOpacity, Dimensions } from 'react-native';
 import React, { useEffect, useState } from 'react';
-import Torch from 'react-native-torch';
+import Torch from './react-native-torch';
 import Slider from '@react-native-community/slider'
 const {width, height} = Dimensions.get('screen')
 
